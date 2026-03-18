@@ -83,6 +83,94 @@
       "ornament_sell": 78750.0
     },
     {
+      "date": "2026-03-06",
+      "update_time": "17:13",
+      "bar_buy": 76650,
+      "bar_sell": 76850,
+      "ornament_buy": 75117.8,
+      "ornament_sell": 77650
+    },
+    {
+      "date": "2026-03-05",
+      "update_time": "17:16",
+      "bar_buy": 76950,
+      "bar_sell": 77150,
+      "ornament_buy": 75405.84,
+      "ornament_sell": 77950
+    },
+    {
+      "date": "2026-03-04",
+      "update_time": "17:18",
+      "bar_buy": 77000,
+      "bar_sell": 77200,
+      "ornament_buy": 75466.48,
+      "ornament_sell": 78000
+    },
+    {
+      "date": "2026-03-03",
+      "update_time": "17:29",
+      "bar_buy": 79050,
+      "bar_sell": 79250,
+      "ornament_buy": 77467.6,
+      "ornament_sell": 80050
+    },
+    {
+      "date": "2026-03-02",
+      "update_time": "17:12",
+      "bar_buy": 80050,
+      "bar_sell": 80250,
+      "ornament_buy": 78453,
+      "ornament_sell": 81050
+    },
+    {
+      "date": "2026-02-28",
+      "update_time": "09:08",
+      "bar_buy": 77400,
+      "bar_sell": 77600,
+      "ornament_buy": 75845.48,
+      "ornament_sell": 78400
+    },
+    {
+      "date": "2026-02-27",
+      "update_time": "17:24",
+      "bar_buy": 75950,
+      "bar_sell": 76150,
+      "ornament_buy": 74435.6,
+      "ornament_sell": 76950
+    },
+    {
+      "date": "2026-02-26",
+      "update_time": "16:53",
+      "bar_buy": 75950,
+      "bar_sell": 76150,
+      "ornament_buy": 74435.6,
+      "ornament_sell": 76950
+    },
+    {
+      "date": "2026-02-25",
+      "update_time": "17:22",
+      "bar_buy": 76000,
+      "bar_sell": 76200,
+      "ornament_buy": 74481.08,
+      "ornament_sell": 77000
+    },
+    {
+      "date": "2026-02-24",
+      "update_time": "16:48",
+      "bar_buy": 75700,
+      "bar_sell": 75900,
+      "ornament_buy": 74193.04,
+      "ornament_sell": 76700
+    },
+    {
+      "date": "2026-02-23",
+      "update_time": "16:23",
+      "bar_buy": 75300,
+      "bar_sell": 75500,
+      "ornament_buy": 73798.88,
+      "ornament_sell": 76300
+    },
+    {
       "date": "2026-02-21",
       "update_time": "09:19",
       "bar_buy": 74900,

@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-03-20T05:30:20.581+07:00",
-  "total_days": 696,
+  "last_updated": "2026-03-21T23:30:58+07:00",
+  "total_days": 697,
   "history": [
     {
+      "date": "2026-03-21",
+      "update_time": "09:00",
+      "bar_buy": 70250.0,
+      "bar_sell": 70450.0,
+      "ornament_buy": 68841.56,
+      "ornament_sell": 71250.0
+    },
+    {
       "date": "2026-03-20",
-      "update_time": "12:17",
-      "bar_buy": 72950,
-      "bar_sell": 73150,
-      "ornament_buy": 71494.56,
-      "ornament_sell": 73950
+      "update_time": "17:21",
+      "bar_buy": 72150.0,
+      "bar_sell": 72350.0,
+      "ornament_buy": 70706.24,
+      "ornament_sell": 73150.0
     },
     {
       "date": "2026-03-19",

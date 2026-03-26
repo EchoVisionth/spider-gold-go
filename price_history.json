@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-03-26T11:22:13.700Z",
+  "last_updated": "2026-03-26T11:26:37.195Z",
   "total_days": 701,
   "history": [
     {
       "date": "2026-03-26",
-      "update_time": "18:22",
-      "bar_buy": 68960,
-      "bar_sell": 69060,
-      "ornament_buy": 67581,
-      "ornament_sell": 69060
+      "update_time": "18:26",
+      "bar_buy": 68920,
+      "bar_sell": 69020,
+      "ornament_buy": 67542,
+      "ornament_sell": 69020
     },
     {
       "date": "2026-03-25",
